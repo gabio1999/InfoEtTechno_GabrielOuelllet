@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Contenu du ficher 1 dans master
+=======
+Contenu du ficher 1 la vie
+>>>>>>> origin/Branche_git1
 
